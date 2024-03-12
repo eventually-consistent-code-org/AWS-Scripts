@@ -1,13 +1,25 @@
 import boto3
 import csv
 from concurrent.futures import ThreadPoolExecutor
+import logging
 
+# Setup logging config
+logging.basicConfig(
+    format='%(asctime)s %(levelname)s: %(message)s',
+    level=logging.INFO,
+    handlers=[
+        logging.FileHandler("s3_scan_log.txt"),
+        logging.StreamHandler(sys.stdout)
+    ]
+)
+logging.info("import csv with instances to be rightsized")
 def check_ec2_instance(instance_id, instance_type, app_tag):
     ec2 = boto3.resource('ec2')
     instances = ec2.instances.filter(Filters=[{'Name': 'instance-id', 'Values': [instance_id]}])
     
     for instance in instances:
         if instance.instance_type != instance_type:
+            info.logging("Checking instance type against initial list")
             with open('changed_instances.csv', mode='a') as file:
                 writer = csv.writer(file)
                 writer.writerow([instance.id, instance.instance_type, app_tag])
