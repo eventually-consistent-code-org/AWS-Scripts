@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import boto3
 import csv
 from concurrent.futures import ThreadPoolExecutor
