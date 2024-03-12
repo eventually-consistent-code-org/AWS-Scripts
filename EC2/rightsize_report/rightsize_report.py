@@ -2,13 +2,14 @@ import boto3
 import csv
 from concurrent.futures import ThreadPoolExecutor
 import logging
+import sys
 
 # Setup logging config
 logging.basicConfig(
     format='%(asctime)s %(levelname)s: %(message)s',
     level=logging.INFO,
     handlers=[
-        logging.FileHandler("s3_scan_log.txt"),
+        logging.FileHandler("rightsizing_log.txt"),
         logging.StreamHandler(sys.stdout)
     ]
 )
@@ -32,5 +33,5 @@ def multithreaded_check_instances(csv_file):
             for row in csv_reader:
                 executor.submit(check_ec2_instance, row[0], row[1], row[2])
 
-# Example usage
+
 multithreaded_check_instances('instances_to_check.csv')
