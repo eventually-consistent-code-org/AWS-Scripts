@@ -37,6 +37,7 @@ with open('resize_instances.csv', mode='r') as file:
         app_id.append(row[2])
 logging.info("comparing instance types \r")
 for i in range(len(awsinst_id)):
+    logging.info("aws instance: %s", awsinst_id)
     if awsinst_id[i] in inst_id:
         index = inst_id.index(awsinst_id[i])
         if awsinst_type[i] != inst_type[index]:
