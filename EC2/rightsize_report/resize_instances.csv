@@ -1,0 +1,1405 @@
+﻿i-060e838538a751a2d,tg4.micro,CCMS
+i-0beb58be574b8c3af,m5.2xlarge,CCMS
+i-01945445a4eb1f047,m5.2xlarge,CCMS
+i-0ac8894ab3bcedb69,m5.2xlarge,CCMS
+i-046cf3834d2edcdbb,m5.2xlarge,CCMS
+i-0d7419d111a79494e,m5.2xlarge,CCMS
+i-0c60278c27ef4ef7b,m5.2xlarge,CCMS
+i-0f60ac74d6b0b216a,m5a.2xlarge,CCMS
+i-03ff02724fe2e9925,m5a.2xlarge,CCMS
+i-0b026db0b5362837d,m5a.2xlarge,CCMS
+i-02b12c4722ba8967f,m5a.2xlarge,CCMS
+i-09cee0e1dce3615f7,m5a.2xlarge,CCMS
+i-058f01a33ab8b77fc,m5a.2xlarge,CCMS
+i-07cda93846020ad38,r5.xlarge,CCMS
+i-0206c68f4cf2322d7,r5.xlarge,CCMS
+i-05b6448a4d3d61bd0,r5.xlarge,CCMS
+i-01257b3dbef96e4e9,r5.xlarge,CCMS
+i-040dbc9bcbd8b694c,m5.large,CCMS
+i-05f39c438280918c0,m5.large,CCMS
+i-00f952e69210dab57,m5.xlarge,CCMS
+i-0b5c1a1a6e6ec3e62,m5.xlarge,CCMS
+i-027402bda347d95d5,m5.xlarge,CCMS
+i-0448d89452dd25b77,m5.xlarge,CCMS
+i-01b2f026960e10559,m5a.large,CCMS
+i-0a019ef81ac1637a1,m5a.large,CCMS
+i-07a5e909fae363f28,m5.large,CCMS
+i-049c661c93fd0937c,m5a.large,CCMS
+i-0cf1fe8ebfba1dac6,m5a.large,CCMS
+i-0b90535b2117e429a,m5a.large,CCMS
+i-056ece64b96ca26a3,m5a.large,CCMS
+i-0acc7b7f049c858fa,m5a.large,ALSV2
+i-024a5c071eed8d0d5,m5a.large,ALSV2
+i-0d3192df8f1a77dca,m5a.large,ALSV2
+i-0e61118d8bae1d4ca,m5a.large,ALSV2
+i-00d04e5f0c7b284cd,m5a.large,ALSV2
+i-066dd53cc96de401f,m5a.large,ALSV2
+i-073d56773e92fdb10,c5d.2xlarge,Alteryx
+i-044bcf436670dc6a6,c5d.2xlarge,Alteryx
+i-0c5c3af1e57022a34,m4.2xlarge,Alteryx
+i-045bf38c2c389a5bd,m5ad.xlarge,Alteryx
+i-0e0893da705f9a003,m5ad.xlarge,Alteryx
+i-0889ed3e084b43beb,m5ad.xlarge,Alteryx
+i-056578c5f3f04ecbb,m5ad.xlarge,Alteryx
+i-00067d359af8612d9,m5ad.xlarge,Alteryx 
+i-0b86004bd4d0fe796,m5ad.xlarge,Alteryx
+i-0f4650f205a08e4b7,m5ad.xlarge,Alteryx
+i-02b7ea2baa2f94c62,m5ad.xlarge,Alteryx
+i-0e962850ba70399ac,m5a.xlarge,CCP
+i-0d182a031642b221a,m5a.xlarge,CCP
+i-0fa77181406847019,m5a.xlarge,CCP
+i-021ca4a186f7aae4a,m5a.xlarge,CCP
+i-0709f5101a53936bb,m5a.xlarge,CCP
+i-01f9f819972b64167,m5a.xlarge,CCP
+i-08afcb60770a62e3a,m5.2xlarge,Analytics-RT
+i-0853a6baac6efe46d,m5.2xlarge,Analytics-RT
+i-087c265b292f23530,m5a.large,BigData
+i-00080ba8638423ea1,m5a.large,BigData
+i-08278e45b67347f14,c5.4xlarge,Analytics-RT
+i-0b2e335b4320c68e0,m5a.large,BigData
+i-0d5dd1d087f14cced,m5.large,Analytics 
+i-0ea52034d7cfd9c9e,m5a.large,BigData
+i-0544e6e454a3b8761,m5a.xlarge,Analytics-RT
+i-0ffa35fd88138ed3c,m5a.xlarge,Analytics-RT
+i-0cd35215c731d5320,m5a.xlarge,Analytics-RT
+i-001c781b0c986612e,m5a.large,BigData
+i-04a08e36563bb8ee6,m5a.large,BigData
+i-08a360281b68dc84d,c5.large,Analytics-RT
+i-0c6b4d64ecfa1a19f,c5.4xlarge,Analytics-RT
+i-044223c0b7f2064ad,m5a.xlarge,Analytics-RT
+i-06a7f9149ad3ea021,m5a.xlarge,Analytics-RT
+i-0df6b5d715b6b22b0,c5.xlarge,Analytics-RT
+i-0b9e05ebc99fec46e,c5.xlarge,Analytics-RT
+i-096ae90601ebff9b9,c5.xlarge,Analytics-RT
+i-0741cfe2bdd757fed,m5a.large,Analytics-RT
+i-0d43f67f81470660a,m5a.xlarge,Analytics-RT
+i-040ee4cce52b9dd33,m5a.xlarge,Analytics-RT
+i-051c06de05fac6f48,c5.xlarge,Analytics-RT
+i-0896de30185be4e7f,c5.xlarge,Analytics-RT
+i-056cac2a9c5f49b57,c5.xlarge,Analytics-RT
+i-0daf419f346ad36ef,c5.large,Analytics-RT
+i-0c69fb0ec1f7f6f6f,c5.large,Analytics-RT
+i-9f552189,t2.small,Analytics 
+i-03f073b8aed200e39,m5a.large,Analytics-RT
+i-09ae806043db6cb38,m5a.large,Analytics-RT
+i-05eaf840e0e4d677f,m5a.large,Analytics-RT
+i-079545bcbc72897a8,m5a.large,Analytics-RT
+i-04df3f8858010095e,c5.large,Analytics-RT
+i-02308626701e93497,c5.large,Analytics-RT
+i-06b7e4d8a0af1c5b1,c5.large,Analytics-RT
+i-0ed3aa7c335c04ca4,m5a.large,Analytics-RT
+i-05e19738f7889a622,m5a.large,Analytics-RT
+i-0d9bb3d2013eceada,m5a.large,Analytics-RT
+i-09ddd553ee61ab398,m5a.large,Analytics-RT
+i-0c476d9b97c839094,m5a.large,Analytics-RT
+i-0ca15198e6ed541a1,m5a.large,Analytics-RT
+i-0df65048ad7dfb91e,m5a.large,Analytics-RT
+i-044e141b15958842d,m5a.large,Analytics-RT
+i-0a37d2992cf3c6921,m5a.large,Analytics-RT
+i-0586c3c4377986299,m5a.large,Analytics-RT
+i-0d697216bb48ee992,r5a.xlarge,Analytics-RT
+i-0e8749c1635e9c590,m5a.xlarge,BigData
+i-0d04da4c52099f29e,m5a.2xlarge,Aplia
+i-0a855e128df62c51e,m5a.2xlarge,Aplia
+i-0eb686ffb495eb61b,m5a.2xlarge,Aplia
+i-090ed291848e14980,m5a.xlarge,Aplia
+i-021f59d1eaa3a63c0,r5a.xlarge,Aplia
+i-0ec62522251d3326d,m5a.xlarge,Q4
+i-51992e82,c3.xlarge,Q4
+i-a67dca75,c3.xlarge,Q4
+i-0722846cf12a9859f,m5a.2xlarge,Q4
+i-00bcedf25a5716614,m5a.2xlarge,Q4
+i-01eb8f34b12678ac4,m5a.2xlarge,Q4
+i-09c55142bc1dc57da,m5a.xlarge,Q4
+i-0c0cb26bdd1f77c04,m5a.xlarge,Aplia
+i-007a1385f9abc3d15,m5a.xlarge,Aplia
+i-028b556f4fc3b7af8,r5a.xlarge,Aplia
+i-036a1f434dfaf8bb4,r5a.xlarge,Aplia
+i-088a15a93486daa32,r5a.xlarge,Aplia
+i-0cf534ceaaed148c1,m5a.large,Aplia
+i-01a07d6ce6fa9ef50,m5a.xlarge,Q4
+i-042c4c607a8523a8f,m5a.xlarge,Q4
+i-07ce96d18711de0cc,m5a.xlarge,Q4
+i-08babdfebb991371a,m5a.xlarge,Q4
+i-08328975d39c05357,m5a.xlarge,Q4
+i-0a20122d49d73ebdf,m5a.large,Aplia
+i-0078fa6da1dc8b5e3,m5a.large,Aplia
+i-07adce3fe5cf87b1e,m5a.large,Q4
+i-0a72212cf29b89f04,m5a.large,Q4
+i-092c2e894cf58f57d,m5a.large,Q4
+i-07f8aa2d6d793e39f,m5a.large,Aplia
+i-091f00f0614e61765,m5a.xlarge,Aplia
+i-01fe1bb90fbe0273f,r5.4xlarge,Aplia
+i-0afbe23d6016d3634,r5.4xlarge,Aplia
+i-0beffa93b5f312af0,m5.4xlarge,Splunk 
+i-0a3a796c65eb51f21,m5.4xlarge,NelsonNet
+i-0f658e7981ac2936f,m5.4xlarge,NelsonNet
+i-0b09a81cc68b5e465,m5.2xlarge,Nelson.net
+i-09b284995fc947d1c,c4.large,Cloud Services
+i-0e92c1890a9dfc7d8,c4.large,Cloud Services
+i-0da9843c58b07e985,c4.large,Cloud Services
+i-0be79697b0f6aeaab,m4.large,Cloud Services
+i-00f70a9313fb9d04d,t2.xlarge,Cengage.com.au
+i-0bfc0d4e5a42d7dba,r5.xlarge,Nelson.com.au
+i-0888dd667cf5fea5b,r5.xlarge,Nelson.com.au
+i-03f9945676354b779,r5.xlarge,Nelson.com.au
+i-0e176ecd8453d3d05,r5.xlarge,Cengage.com.au
+i-09ed9cbd20bc1aa4c,r5.xlarge,Cengage.com.au
+i-0f4cb7123f5d29577,t2.large,ANZ ExamPlus
+i-08eaf9cb648241e24,m5.large,Splunk 
+i-0cefe35fc6e636045,m5.2xlarge,Nelson.net
+i-0685cacbe551739e4,r5.xlarge,BigData
+i-091c7ddedb53f7d8f,t2.xlarge,BigData
+i-0f1fd8ca38f5d45cb,t2.xlarge,BigData
+i-0de51b60a028bb8c8,c5.large,Cassandra
+i-057ec8300762bb56d,c5.large,Cassandra
+i-032e24a5223fd792c,c5.large,Cassandra
+i-0b8b5a660af7ce29f,m5a.xlarge,MindTap
+i-040f9487672eb7b61,m5a.xlarge,MindTap
+i-07bf9e03a713e0a86,m5a.xlarge,MindTap
+i-02616cccf4d3eb142,m5a.xlarge,MindTap
+i-0c78b09849c3eb67d,m5a.xlarge,MindTap
+i-09b39833ea9d77858,m5a.xlarge,MindTap
+i-0138aba8498385528,m5a.large,MindTap
+i-0b261197af5424b27,m5a.large,MindTap
+i-0f9fe46a54c3e19a5,m5a.large,MindTap
+i-00d63e3f527aca675,m5a.large,MindTap
+i-05d5f9a78dfae2394,t2.small,MindTap
+i-0f1ae6872cd2d11b3,r5a.2xlarge,GIAWL
+i-08ae90d722cd33260,r5a.2xlarge,GIAWL
+i-0e05be7c3ac57a82e,r5a.2xlarge,GIAWL
+i-0e54599ae468970f5,m5a.xlarge,GIAWL
+i-0388f6daad6d7cfc5,m5a.xlarge,GIAWL
+i-06a78e63009de221d,r5a.2xlarge,GIAWL
+i-078121b6428ac8cf1,r5a.2xlarge,GIAWL
+i-0bb0a99979d683290,r5a.2xlarge,GIAWL
+i-0bc63873818bce045,r5a.2xlarge,GIAWL
+i-0f700b2a6c3cda04f,r5a.2xlarge,GIAWL
+i-0fde692a0d7333278,r5a.2xlarge,GIAWL
+i-04b7358ff57d9decc,m5.2xlarge,GIAWL
+i-07aee738816d9fc93,m5.xlarge,ALSV2
+i-07f489c3f072be620,m4.xlarge,SOA-Project
+i-01e99bca7c2d856a7,m5.large,GIAWL
+i-02717f95f7f0dee75,m5a.large,GIAWL
+i-0d8a590cca408c662,m5a.large,GIAWL
+i-061b4cf888198db8a,m5a.large,GIAWL
+i-030fab106fad3e46f,m5a.large,GIAWL
+i-0587f66cfc3da5a72,m3.xlarge,GIAWL
+i-01ebe1bb4569e7843,m5.large,GIAWL
+i-060ccd29d89bb3cde,m5a.large,MindTap
+i-0c14cfbf390477958,m5a.large,MindTap
+i-0d91c2abe5734f67f,m5a.large,MindTap
+i-06d449981e1e282d1,m5a.large,MindTap
+i-0818e8820aa362f41,m5a.large,MindTap
+i-07f75487ff3dd2877,m5a.large,MindTap
+i-0dd8c6fd4a57560a5,m5a.large,MindTap
+i-08d027bf7e6cca646,m5a.large,MindTap
+i-02ccc58e5ffabe2de,m5.large,SOA-Project
+i-03918a0cd502d6f3d,m5.large,SOA-Project
+i-0979a35c32024da99,m5.large,SOA-Project
+i-095231af720c04ce3,m5.large,SOA-Project
+i-03274c580ff5ef7d8,m5.large,SOA-Project
+i-0b0f84b406bdcd996,m5.large,SOA-Project
+i-0ec0daa54c5b72ed3,m5.large,SOA-Project
+i-0aaa5964077660373,m5.large,SOA-Project
+i-01881ef6baa70ca4f,m5.xlarge,CCP
+i-0386639cc5a506ecc,c5a.xlarge,CCP
+i-0a5f4ddcb0d063a3e,c5a.xlarge,CCP
+i-0578b7777effe695d,m5a.xlarge,CCP
+i-0f8630a30dbc34aaf,m5a.xlarge,CCP
+i-06a2fb128c5c90a1d,m5a.xlarge,CCP
+i-0dbeeccf097cde093,m5a.xlarge,CCP
+i-0e29c1b11bcc4bc4a,m5a.xlarge,CCP
+i-0b640336622981811,m5a.xlarge,CCP
+i-0bf9f5b259a058bee,m5a.xlarge,CCP
+i-00f0d82a710d55720,m5a.xlarge,CCP
+i-078d9ba4199b44353,m5a.xlarge,CCP
+i-0872d6070bb2c3ff4,m5a.xlarge,CCP
+i-0248ab2434f76498f,m5a.xlarge,CCP
+i-0b9637b273f12be99,m5a.xlarge,CCP
+i-0f3eb964e3072903b,m5a.xlarge,CCP
+i-04a4dad0fa34b7a8b,m5a.xlarge,CCP
+i-073d36865c9b7acfa,m5a.xlarge,CCP
+i-07966e7738ac31643,m5a.xlarge,CCP
+i-06066213d2d4ad3ca,c5a.xlarge,CCP
+i-0c3f427ac9dea98bb,m5.xlarge,CCP
+i-013a055c8a0837536,m5.xlarge,CCP
+i-03e766947f91b9c67,m5.xlarge,CCP
+i-09f39a4be7c452a6f,c5a.xlarge,CCP
+i-058931bdb655026cb,c5a.xlarge,CCP
+i-0487f4c9a527e79af,c5a.xlarge,CCP
+i-00c0e228971cd943c,c5a.xlarge,CCP
+i-030ea74f719e86520,c5a.xlarge,CCP
+i-004e1b41f74932347,c5a.xlarge,CCP
+i-01061e9ce8350966e,m5a.large,CCP
+i-0475545fbbc1c6181,m5a.xlarge,CCP
+i-0e03c03be106732a2,m5a.xlarge,CCP
+i-01ebb94c9502d8b66,m5a.xlarge,CCP
+i-0e4d1a15c847a5548,m5a.xlarge,CCP
+i-02e3bfd8b93467d57,m5a.xlarge,CCP
+i-0974f366b10fbc3e8,m5a.xlarge,CCP
+i-0ad8ab5dd536ca97f,m5a.xlarge,CCP
+i-0c0cab5cad1580d14,m5a.xlarge,CCP
+i-07cf872594c7685fc,m5a.xlarge,CCP
+i-07c64432fd9d0f727,m5a.xlarge,CCP
+i-028b5a71a6e005f1d,m5a.xlarge,CCP
+i-069a10b1cba37c46f,m5a.xlarge,CCP
+i-07695f9dbea2d066b,m5a.xlarge,CCP
+i-05116499c6d950ef0,m5a.xlarge,CCP
+i-0f1af7037f8a93e1d,m5a.xlarge,CCP
+i-05ebcce508b3874aa,m5a.large,CCP
+i-0f4792002a0ab8f9a,m5a.large,CCP
+i-03b2549a387997b53,m5a.large,CCP
+i-0f4458bf41569dbe6,m5a.large,CCP
+i-0d2d3b1f3df5181eb,m5a.large,CCP
+i-085f2629089c18d3d,m5a.large,CCP
+i-043f21cf96a15edd6,m5a.large,CCP
+i-04ab6d7af41061842,m5a.large,CCP
+i-0c919f9536d2a2770,m5a.large,CCP
+i-0015f6558ed82206c,m5a.large,CCP
+i-09bd872e947483601,m5a.large,CCP
+i-0e26271e48bacf3d9,m5a.large,CCP
+i-039e4eb66c4b21104,m5a.large,CCP
+i-09cdf6e09b85b5248,m5a.large,CCP
+i-0c8ce88fed3af6b3b,m5a.large,CCP
+i-08b503ec671ff986f,m5a.large,CCP
+i-00537c7b11254f1f5,m5a.large,CCP
+i-06a04fa8dd442e9d1,m5a.large,CCP
+i-095733316e306ed5e,m5a.large,CCP
+i-0098815ec93346c6e,m5a.large,CCP
+i-048fd250ad76dafb9,m5a.large,CCP
+i-0a3a01aa1a6818549,m5a.large,CCP
+i-0359b6d0513226943,m5a.large,CCP
+i-050a60a2b423498bc,m5a.large,CCP
+i-00a43d9df03ac1724,m5.xlarge,CCP
+i-06481032a29c14da3,m5a.large,CCP
+i-0fb217d88c4d89481,m5a.large,CCP
+i-0a7df259d2b16d02e,m5a.large,CCP
+i-0f0555e0981b2fc32,m5a.large,CCP
+i-0616160ad50320769,m5a.large,CCP
+i-0374fc1acf4a007fd,m5a.large,CCP
+i-0ffe5804bb598176e,m5a.large,CCP
+i-016f05b3cbef746f6,m5.large,CCP
+i-0a07ace85b1eda01e,m5.large,CCP
+i-055ec2f2f11fc86d8,m5.large,CCP
+i-03d4b3573ab8f2c10,m5.large,CCP
+i-017c05da48f0ee7f6,m5.large,SOA-Project
+i-0b65d5b3ebc57d400,m5.large,SOA-Project
+i-08cd0ee330a88e81c,m5a.large,CCP
+i-0fe5d7d14cea573a6,m5a.large,CCP
+i-02b707cf54c3b986c,m5a.large,CCP
+i-0993fe80319902117,m5a.large,CCP
+i-0654a170cf581b223,m5a.large,CCP
+i-016ebd2f83b3fc31a,m5a.large,CCP
+i-06132689c75c4a394,m5a.large,CCP
+i-024b0cbec2e9d5cc9,m5a.large,CCP
+i-09a90bd3f811b6ff4,m5a.large,CCP
+i-0feb8d91ca75334a3,m5a.large,CCP
+i-00aed1954cac92d23,m5a.large,CCP
+i-0d9e5e8c8b93c05d3,m5a.large,CCP
+i-023b7186a81129918,m5a.large,CCP
+i-0a83bdaf26d42bcbb,m5a.large,CCP
+i-0c3c94dcb6ab3d91a,m5a.large,CCP
+i-060ba500dfa7a0f9c,m5a.large,CCP
+i-09a4689fd9d3d7c14,m5a.large,CCP
+i-0939d2fa63e16b3f5,m5a.large,CCP
+i-00e3c76767b9422d6,m5a.large,CCP
+i-039461754adebc771,m5a.large,CCP
+i-0bffc46fcbf3a4022,t2.small,CCP
+i-07f47ee1fbd5a7588,t2.small,CCP
+i-0b69e39e4e1e6136f,m5a.large,CCP
+i-05625d792c5712021,m5a.large,CCP
+i-0edc3a49c3ea85450,m5a.large,CCP
+i-0601aae762eef68cd,m5.xlarge,CCP
+i-0658314298a847aca,m5.xlarge,CCP
+i-0f9478103a513c5bc,m5.large,SOA-Project
+i-000dc0ba7c01af178,m5.large,SOA-Project
+i-0a7b45c1c5cc7ff11,m5.large,SOA-Project
+i-0de9b2524cfb0a66b,m5.large,SOA-Project
+i-0cf2d9d053f17473c,m5.large,SOA-Project
+i-091a3766f0ea58542,m5.large,SOA-Project
+i-02fbeb56e8c3eb23b,m5.large,SOA-Project
+i-06abd65b1d1d96a4b,m5.large,SOA-Project
+i-0ab989653626d2db3,m5.large,SOA-Project
+i-02167a9baba527dff,m5.large,SOA-Project
+i-094d851758d2b13e6,m5.large,SOA-Project
+i-0f205559f5818a6b6,m5.large,SOA-Project
+i-09c01a174adb3042b,m5.large,SOA-Project
+i-0be8ba2d06a2fc4d7,m5.large,SOA-Project
+i-0ec12c6a9e34ef25e,m5.large,SOA-Project
+i-0bc95df0c048ff1b3,m5.large,SOA-Project
+i-0985263bc252e4764,m5.large,SOA-Project
+i-0008ba4df72b158f5,m5.large,SOA-Project
+i-0fa9fa5a422a8312e,m5.large,SOA-Project
+i-0eeaf73ebebbcc080,m5.large,SOA-Project
+i-0dbc88ee8be4de0dc,m5.large,SOA-Project
+i-0986584b3f5f0a71f,m5.large,SOA-Project
+i-06e23237d2abb3750,m5.large,SOA-Project
+i-0ab7f512103b25661,m5.large,SOA-Project
+i-043e897b624e09396,m5.large,SOA-Project
+i-0e62bc60ee40fe814,m5.large,SOA-Project
+i-031782428b8fbbf8c,m5.large,SOA-Project
+i-0942834817a17bb76,m5.large,SOA-Project
+i-08607e8adb42f7305,m5.large,SOA-Project
+i-063dd737dbd7ae4d4,m5.large,SOA-Project
+i-09d5e216fb2229d89,m5.large,SOA-Project
+i-03e1f1c67efab364e,m4.xlarge,Workforce Skills
+i-05a6b741c0b3c3c35,m5.xlarge,Workforce Skills
+i-080750344d8d747be,m5.2xlarge,Chilton
+i-07ec5b3c909a6f4e2,m5.2xlarge,Chilton
+i-05aeb328ba4e32e4c,m5.2xlarge,Chilton
+i-0b6586612ebb39603,t2.micro,Chilton
+i-03ff365b076ad37ab,m5a.2xlarge,CXP
+i-0b32efe44523c3251,m5a.2xlarge,CXP
+i-0c74299ed90272fe2,m5a.2xlarge,CXP
+i-0db609b2be32cb605,m5a.2xlarge,CXP
+i-0e509bd54558d96bb,m5a.2xlarge,CXP
+i-06e61982dbbe47056,m5a.2xlarge,CXP
+i-0aebda6f9e176783b,m5.4xlarge,Splunk
+i-0b3f18b6a474a3401,c5.4xlarge,Splunk
+i-0eabc5a60ffd3ad59,m5.4xlarge,Splunk
+i-0f08b0daac21191ab,m5.4xlarge,Splunk
+i-0b1335f2a1cf53276,c5.4xlarge,Splunk
+i-0946a64a7ff8a229c,c5.4xlarge,Splunk
+i-0996d3f1a2ba185a3,c5.4xlarge,Splunk
+i-0a874bb97afa69031,c5.4xlarge,Splunk
+i-05a6087a82d4337cd,c5.4xlarge,Splunk
+i-05cfb3d65f154bd59,c5.4xlarge,Splunk
+i-01595840fabe338b8,c5.4xlarge,Splunk
+i-026c7bda9ca1ff8d2,c5.2xlarge,Splunk
+i-0c58a0749edc213c7,c5.2xlarge,Splunk
+i-028b17fd6715995b9,c5.2xlarge,Splunk
+i-079e2bc81a8b7e7ef,c5.2xlarge,Splunk
+i-096ba8f733900cdac,c5.2xlarge,Commvault
+i-0e6bad69271affe76,c5.xlarge,Splunk
+i-032832200b99fc692,c5.xlarge,Splunk
+i-083b92f3350640505,c5.xlarge,Splunk
+i-09857b98ecf4218af,c5.xlarge,Splunk
+i-0265efb2869f4ffd5,m5a.xlarge,Commvault
+i-05b0df61ff842fbf9,c5.xlarge,Splunk
+i-01eb66572e1810afc,m5.xlarge,Cloud
+i-0348b9bfb53aabe5c,r5a.large,Splunk
+i-095cbd601a5f4182d,r5a.large,Splunk
+i-0c4a5b67993033bb3,r5a.large,Splunk
+i-0e74a1cb2eea5f562,r5a.large,Splunk
+i-0f1957e0a4288789e,c5.xlarge,Splunk
+i-0bfe9df5cc1b3f33c,r5a.large,Splunk
+i-01cc6e0a585fb4a2d,r5a.large,Splunk
+i-092f86eb80345fd0f,r5a.large,Splunk
+i-019fbcaf991839fad,r5a.large,Splunk
+i-074159c9fd448b7d4,r5a.large,Splunk
+i-09d16522e05fb7485,r5a.large,Splunk
+i-055b906b998f695ac,r5a.large,Splunk
+i-095cbe6e6544d4271,r5a.large,Splunk
+i-0470e1d98b6c8b8fb,m5.2xlarge,Cloud-Services
+i-06747af88b35a9a3f,m5.2xlarge,Cloud-Services
+i-017494ae790aa6d33,m5.2xlarge,Cloud-Services
+i-01218b1a89c394dea,r5a.large,Splunk
+i-0230ff6769fff5da1,m5.large,CCP
+i-0d65bb086bc4cd05e,m5.large,CCP
+i-0ac64d51556b63acb,m5.2xlarge,Cloud-Services
+i-042911a54dfaedc8d,m5.2xlarge,Cloud-Services
+i-0cf00cefaa4709f99,m5.2xlarge,Cloud-Services
+i-0cefb780f4d421ea1,m5.2xlarge,Cloud-Services
+i-03062ffcbb1fdf613,t2.medium,Cloud-Services
+i-0c3795b8eb1b9b2aa,c5.4xlarge,Jira
+i-079bbea33a78c4c80,m5.2xlarge,Stash
+i-019460d6dcdbc789e,m5.2xlarge,Confluence
+i-0ebdf9f1536f6c04f,c5.large,Stash
+i-0fa1b552becd6b678,c5.large,Stash
+i-0975b62bc57a2a364,c5.4xlarge,Jira
+i-0ceca19e8be5f07c5,c5.xlarge,MindTap
+i-0f38782092529b89a,c5.xlarge,MindTap
+i-0919b9ea5b620bc4d,c5.xlarge,MindTap
+i-0060c516c021d2433,c5.xlarge,MindTap
+i-0df36655aff0e7d9a,c5.xlarge,MindTap
+i-0dfb6534d01c5b316,c5.xlarge,MindTap
+i-073df93b8ea23bd0f,c5.xlarge,CMP
+i-032bb4b7ee1d6d60e,c5.xlarge,CMP
+i-045a07bd280c651b9,c5.xlarge,CMP
+i-0b540ed605686ca3a,c5.xlarge,CMP
+i-099c22ef2085398b6,c5.xlarge,CMP
+i-0391c6358bfc4618b,c5.xlarge,CMP
+i-0d4136fc3ce43ba11,c5.xlarge,CMP
+i-0c33542426e0fd932,c5.xlarge,SSO/OLR
+i-08d286a8ec3ce2d99,c5.xlarge,CMP
+i-0c11210e7a26be696,c5.xlarge,CMP
+i-03afcc90835a3c8b9,c5.xlarge,CMP
+i-01dceaf866ad42ea2,c5.xlarge,CMP
+i-09e53e3ba32d97f10,c5a.xlarge,CMP
+i-097159770a45399ce,c5a.xlarge,CMP
+i-0ca8a5be5eafdea50,c5a.xlarge,CMP
+i-0a1aad356724c8d07,c5.xlarge,SSO/OLR
+i-0bb88b3f2a742fbe5,c5.xlarge,SSO/OLR
+i-0acb0f0774e164b8c,c5.xlarge,SSO/OLR
+i-058312ab80282473c,c5.xlarge,SSO/OLR
+i-0f94b0c8ce2630af6,c5.large,CMP
+i-05820071d23571e21,c5.xlarge,CMP
+i-0fc5514f989ad4a8e,c5.xlarge,SSO/OLR
+i-079abfb4675bd51ba,c5.xlarge,SSO/OLR
+i-0db4cc9523148f455,c5.xlarge,SSO/OLR
+i-023189f0408e7e479,m5a.large,MindTap
+i-07b5a58c51980d0df,m5a.large,MindTap
+i-0a5c8ddd6b8337f5e,m5a.large,MindTap
+i-0324456209caa9bd1,m5a.large,MindTap
+i-0649295818fd16a9b,m5a.large,MindTap
+i-0dd3df2667cba7406,m5a.xlarge,CNow MindApp
+i-04e54c6f29fd75591,m5a.xlarge,CNow MindApp
+i-043dae564aaed1f5f,m5a.large,MindTap
+i-08bb111cae6962a11,m5a.large,MindTap
+i-03942f4789e5a1d2e,m5a.large,MindTap
+i-0669f8bf87a9a755d,m5a.xlarge,CNow MindApp
+i-0e987103f80cb2fa5,m5a.xlarge,CNow MindApp
+i-068be2935e6e76f44,m5a.xlarge,CNow MindApp
+i-0d9bd08c6f9f435d2,m5a.xlarge,CNow MindApp
+i-07dc40692a9cf6a84,t2.medium,MindTap
+i-07d7d2617c2fe3751,m5a.large,MindTap
+i-058bd893c98f1ef0b,m5a.large,MindTap
+i-0e44fda265b3883d1,t2.medium,CNow MindApp
+i-0cdda9131aab37908,t2.micro,CNow MindApp
+i-06cc3cfbdd9156d16,t2.micro,CNow MindApp
+i-0d292d1db74eef182,t2.micro,CNow MindApp
+i-0de82f1778306b018,t2.micro,CNow MindApp
+i-0f67b739e2f3f5dda,m5a.xlarge,CNow MindApp
+i-0746c6472e8972995,m5a.xlarge,CNow MindApp
+i-072ef9f640a94abad,m5a.xlarge,CNow MindApp
+i-07ef733a08d5faba0,m5a.xlarge,CNow MindApp
+i-0ef9afa37059e2e57,m5a.xlarge,CNow MindApp
+i-0201ac896db9bfe4a,m5a.xlarge,CNow MindApp
+i-0a5296a52c7df26f9,m5a.xlarge,CNow MindApp
+i-03db3e01e178bad3b,m5a.xlarge,CNow MindApp
+i-0fc09a69993693557,m5a.xlarge,CNow MindApp
+i-076561a4953d064b4,m5a.xlarge,CNow MindApp
+i-0690953c4a0e7aa71,m5a.xlarge,CNow MindApp
+i-0086027759baa3e29,m5a.xlarge,CNow MindApp
+i-0a585851d2e290107,m5a.xlarge,CNow MindApp
+i-05d3e5486309d88b7,m5a.xlarge,CNow MindApp
+i-0d5c78f8725898a2c,m5a.xlarge,CNow MindApp
+i-070b0c6136d24c618,m5a.xlarge,CNow MindApp
+i-0e4417aa8c20e302e,m5a.xlarge,CNow MindApp
+i-0c743710f0eab5805,m5a.xlarge,CNow MindApp
+i-00c929f0f348266f1,m5a.xlarge,CNow MindApp
+i-031304ddb83ed8dc9,m5a.xlarge,CNow MindApp
+i-00868af284ccb3af2,m5a.xlarge,CNow MindApp
+i-0cb8864d884afbb0e,m5a.xlarge,CNow MindApp
+i-0739ebbcb03909321,m5a.xlarge,cnow-owl
+i-093344f0f8148043c,m5a.xlarge,cnow-owl
+i-05ac7dea495d6b072,m5a.xlarge,cnow-owl
+i-05401ea6a60b06c8f,m5a.xlarge,cnow-owl
+i-01b6023bdd647512c,m5a.xlarge,cnow-owl
+i-01ec2233c3897de85,m5a.xlarge,cnow-owl
+i-0390bb26aafe12b9b,t2.micro,cnow-owl
+i-007e7f2dd83d9107a,t2.micro,cnow-owl
+i-026a2af170433d5e0,m5a.xlarge,cnow-owl
+i-0b0e0f7af299729a8,m5a.xlarge,cnow-owl
+i-0dd1f15fcb83bb591,m5a.xlarge,cnow-owl
+i-08c60fa07d3b9da69,m5a.xlarge,cnow-owl
+i-0d830520238ebbfd3,m5a.xlarge,cnow-owl
+i-05e6f397641198263,m5a.xlarge,cnow-owl
+i-085ac4a7e634793fb,m5a.xlarge,cnow-owl
+i-01aac203ab81381e3,m5a.xlarge,cnow-owl
+i-0c6c7e61f20ccce3b,m5a.xlarge,cnow-owl
+i-006f5c52aa8338101,m5a.xlarge,cnow-owl
+i-0f0feaeb0e0167a24,m5a.xlarge,cnow-owl
+i-0f5e3a02e2bcc4854,m5a.xlarge,cnow-owl
+i-0cafb077b5149f442,m5a.xlarge,cnow-owl
+i-0efd0073eafae0a1d,m5a.xlarge,cnow-owl
+i-08770c13183fe1342,m5a.xlarge,cnow-owl
+i-0e84930ac25aa26f9,m5a.xlarge,cnow-owl
+i-07ad111b6a4e4d3d1,m5a.xlarge,cnow-owl
+i-08950977a6dbc7f75,r5a.large,CNOW
+i-0b7ed1603aaefb3f5,r5a.large,CNOW
+i-0e85b5c36607eb2a0,r5a.large,CNOW
+i-089849538c1d1d094,r5a.large,CNOW
+i-075d02cfeb47ceb47,m5a.2xlarge,CXP
+i-022c2bd136c54562e,m5a.2xlarge,CXP
+i-0bcdf32c23291bd0d,m5a.2xlarge,CXP
+i-05be1943659d7e60b,m5a.2xlarge,CXP
+i-07e41be99ca122ede,m5a.2xlarge,CXP
+i-0ebf25e707ac31120,m5a.2xlarge,CXP
+i-04e3c3a2b903ba808,m5a.2xlarge,CXP
+i-046e77fe891736184,m5a.2xlarge,CXP
+i-033ef1b20f886c47f,m5a.2xlarge,CXP
+i-0c29a148ffe7e2268,m5a.2xlarge,CXP
+i-0081e73fd0bdc274b,m5a.2xlarge,CXP
+i-0e8b94be1a01cade9,m5a.2xlarge,CXP
+i-01816d261f6df1670,t2.xlarge,CXP
+i-02119164296b03754,t2.xlarge,CXP
+i-07df3386f5b517fb9,t2.xlarge,CXP
+i-0a3e105aaffdce92f,t2.xlarge,CXP
+i-05b6a58005715414c,m5a.xlarge,CXP
+i-0f1fb859113ff7eae,m5a.xlarge,CXP
+i-0cf252ab19f1992fe,m5a.2xlarge,CXP
+i-040d380b1e4100d69,m5a.2xlarge,CXP
+i-0f83f1d5a1270898a,m5a.xlarge,CXP
+i-0763c2b387e2e132e,m5a.xlarge,CXP
+i-05bcc9a14c1c927e8,m5a.xlarge,CXP
+i-0b87893ff0965daf7,m5a.xlarge,CXP
+i-0eb7bd625aaa1a306,m4.xlarge,CXP
+i-077b415b684f877c5,m5a.xlarge,CXP
+i-0279c5cbe70c7b980,m5a.xlarge,CXP
+i-0c947194b0ae1f7c9,m5a.xlarge,CXP
+i-04179f18b8a03e7fe,m5a.xlarge,CXP
+i-054f0a4eead6bf836,m5a.xlarge,CXP
+i-08b18ce2885800a47,m5a.xlarge,CXP
+i-0bbe789a4e7170b63,m5a.xlarge,CXP
+i-0847a528f0fe02ebb,m5a.xlarge,CXP
+i-0ba2ec9d17a0675e6,m5a.xlarge,CXP
+i-0be067271ad3a17d5,m5a.xlarge,CXP
+i-096be815714872137,m5a.xlarge,CXP
+i-0529e7a216f081288,m5a.xlarge,CXP
+i-0694c5276ebd66c4d,m5a.xlarge,CXP
+i-089bac83ebd50c619,m5a.xlarge,CXP
+i-098158664c3fc7331,m5a.xlarge,CXP
+i-093fd50e92ce2396c,m5a.xlarge,CXP
+i-07f0516d4ab29f5f8,m5a.xlarge,CXP
+i-04a228b597bc148ff,m5a.xlarge,CXP
+i-04dd24b0cb025d2a8,m5a.xlarge,CXP
+i-0e817dbd0a0ab19cc,m5a.xlarge,CXP
+i-09472dc451b1a9923,m5a.xlarge,CXP
+i-08969d4110c98c53a,m5a.xlarge,CXP
+i-0bdbef3995f68c3d5,m5a.xlarge,CXP
+i-0a8e279c9289df115,m5a.large,CXP
+i-0e5348c1be1ceed5d,m5a.large,CXP
+i-0099126e9728bfe81,m5a.large,CXP
+i-0b69c60e8a1c19b08,m5a.large,CXP
+i-0d6166e1ba7f3fb5c,m5a.large,CXP
+i-0ed659884232c894f,m5a.large,CXP
+i-0c11350f95a015441,m5a.large,CXP
+i-0ed50d8bb108b35d9,m5a.large,CXP
+i-03b5de4ab752d2f20,m5a.large,CXP
+i-08de1e884742d8b15,m5a.large,CXP
+i-03cd2e99513400892,m5a.large,CXP
+i-09d8fce3905d6e283,m5a.large,CXP
+i-0e87054e32b2a3b37,m5a.large,CXP
+i-066c6b875db2fe436,m5a.large,CXP
+i-06a618bf5f3bf9617,m5a.large,CXP
+i-0c6b8b26ece26654e,m5a.large,CXP
+i-067bf32af7686250f,m5a.large,CXP
+i-07ddcc54d080ff5e7,m5a.large,DCaaS
+i-0fd015238349600fa,m5a.large,DCaaS
+i-0372c339a61da0a7e,m5a.large,DCaaS
+i-0f88df975c0888922,c5.2xlarge,DevOps
+i-09151f0cbbe15b81b,m5a.large,MindTap
+i-04e667572d2fc4ea0,m5a.large,MindTap
+i-0eaaf0d71f40eaacc,m5a.large,MindTap
+i-0642fa27efa4322c1,m5a.large,MindTap
+i-0f0567313a6760d68,m5.xlarge,Cloud Foundry
+i-0e47ee107ee55a9e6,m5a.large,Cloud Foundry
+i-03c7abc285ab34587,m5a.xlarge,DevOps
+i-0b47b32d9ebe0173e,m5a.xlarge,AppBuilder
+i-04a7aa7ebb1b49558,m5.large,AppBuilder
+i-0324c4b61f0bac15d,r5.large,DCaaS
+i-0910f7352293b3ff2,r5.large,DCaaS
+i-05616bc6fdd1623e5,m5a.large,Cloud Foundry
+i-016e21799f00eb62b,m5a.large,Cloud Foundry
+i-05f199851cb329750,m5a.large,Cloud Foundry
+i-0f483ad3aeff1a3a4,m5a.large,Cloud Foundry
+i-06bdea36a29cf25ce,m5a.large,Cloud Foundry
+i-005b456fc8bcb12b0,m5a.large,Cloud Foundry
+i-08731ca5276cf4e70,m5a.large,Cloud Foundry
+i-0ec8d351b665cdfe3,m5a.large,Cloud Foundry
+i-07c385ae0d4fb9c8e,m5a.large,Cloud Foundry
+i-02be1a466a5862f0f,m5a.large,Cloud Foundry
+i-0f78a1835b442cf88,m5a.large,Cloud Foundry
+i-091c3f7a1f4b68f8d,m5a.large,Cloud Foundry
+i-012ffea25485a5afc,m5a.large,Cloud Foundry
+i-03ef74a54ea5ed6d3,m5a.large,Cloud Foundry
+i-050e5a72d8a541084,m5a.large,Cloud Foundry
+i-0dd6cdd45355a73f7,m5a.large,Cloud Foundry
+i-0f533e9b6700db7c0,m5a.large,Cloud Foundry
+i-0fa9bcbc4ba23b1af,m5a.large,CEQ
+i-08bbb3775209790bd,m5a.large,CEQ
+i-0218f3631ed1765cf,m5a.large,CES
+i-080392bfd0e5b3c58,m5a.large,CES
+i-0842c809d885d4fd9,m5a.large,CEQ
+i-0ac822491428aedbd,m5a.large,Cloud Foundry
+i-04e99c13a2be83efd,m5a.large,CEQ
+i-0d9eb219e1a5624b2,c5a.large,CES
+i-05508da68778f05aa,c5a.large,CES
+i-060a0e5a6ee61867c,m5a.large,Cloud Foundry
+i-0271cd979bd140c05,m5a.large,DCaaS
+i-05b3637d04af69948,m5a.large,DCaaS
+i-064b0d111f220806c,m5a.large,DCaaS
+i-0a02e2d3e5dd34791,c5.xlarge,CCP
+i-032436aa2a26c5706,c5.xlarge,CCP
+i-0b2e11093b555f4be,c5.xlarge,CCP
+i-0ee9f4b7f9c80575c,c5.xlarge,CCP
+i-00598b1ee47470e90,r5a.xlarge,CCP
+i-0c851bc36fd03eb62,r5a.large,CCP
+i-0d42bb8ac5fd7ad4f,m5.large,DevOps
+i-0a657e8f3584e7369,c5.large,CCP
+i-0f88397e8e500ab8d,m5a.large,CCP
+i-0eaa1ebff7a67261b,m5a.large,CCP
+i-04255e59319a07483,c5.large,CCP
+i-0a2b4950e302864b4,m5.large,CCP
+i-0f5af0b9a44a50783,m5a.large,CCP
+i-0f7b94096069b0be8,m5a.large,CCP
+i-0e81b64c79464b09e,m5a.large,CCP
+i-01e1bc7ce177698bd,m5a.large,AppBuilder
+i-04bb5776afbd30685,m5a.large,AppBuilder
+i-036aa3cd37c693b6f,m5a.large,AppBuilder
+i-0348b6a87b4d9bc86,m5.large,CCP
+i-04e32a1109c601f82,m5a.large,Cloud Foundry
+i-04b2739054aa9e7b2,m5a.large,Cloud Foundry
+i-07d9afe587d736ea2,m5a.large,Cloud Foundry
+i-0d3035b2586d1578e,m5a.large,Cloud Foundry
+i-0b3fb936d17c46fca,m5a.large,Cloud Foundry
+i-09f1eef3abc1c0e6c,m5a.large,Cloud Foundry
+i-0c261e435fc6ad144,m5a.large,Cloud Foundry
+i-0e37c41edd070def1,m5a.large,CEQ
+i-073bfc14825260151,m5a.large,CEQ
+i-0746ae8b39e6a35f7,m5a.large,CEQ
+i-05cead8091d3e225a,m5a.large,CEQ
+i-07bc7f3ceeeb63de8,m5a.large,AppBuilder
+i-06d2db593b274a168,m5a.large,AppBuilder
+i-079905f39b75906f9,m5a.large,Cloud Foundry
+i-0298db1ed2ca126b2,m5a.large,AppBuilder
+i-0ac5e4c240209060c,m5a.large,AppBuilder
+i-08304cc9188f4026f,m5a.large,AppBuilder
+i-0c29992e08822ddb9,m5a.large,AppBuilder
+i-05dcfdbc9106bab08,m5a.large,AppBuilder
+i-049485ecd5b311455,m5a.large,Cloud Foundry
+i-031e2c3aa8ed9f6f6,m5a.large,Cloud Foundry
+i-0cb25e37254a075fa,m5a.large,Cloud Foundry
+i-038eb005c4dd84219,m5a.large,Cloud Foundry
+i-02c955061ba88375b,m5a.large,CEQ
+i-00de25a532c38bb08,m5a.large,CEQ
+i-04b9796139364877b,m5a.large,Cloud Foundry
+i-07c83e51b6b162b80,m5.xlarge,AppBuilder
+i-05574efaaaaa33c94,m5.xlarge,AppBuilder
+i-089074d38f6300e0a,m5.xlarge,AppBuilder
+i-092418f3e224ae5ae,m5.xlarge,AppBuilder
+i-04905c963b04fe47a,m5.xlarge,AppBuilder
+i-0f396f35fabee9e69,m5.xlarge,AppBuilder
+i-06660d99c8e6d47d8,m5.xlarge,AppBuilder
+i-0603232624e1c1bcf,m5.xlarge,AppBuilder
+i-0ba5d66103a9118c6,m5a.large,Cloud Foundry
+i-01d4b89d604dc7adf,r5.large,DCaaS
+i-0febc9566cdf6cfae,r5.large,DCaaS
+i-0385fa529367f68b8,r5.large,DCaaS
+i-0a4b0fa53df1d8cc5,r5.large,DCaaS
+i-5f58c18d,c4.large,Cloud-Services
+i-1ca039ce,c4.large,Cloud-Services
+i-4147ecea,c4.large,Cloud-Services
+i-2e15ba85,c4.large,Cloud-Services
+i-0b4a6e05de1e8c69b,c4.large,Cloud-Services
+i-2d15ba86,c4.large,Cloud-Services
+i-0cde186470c46377d,m5.xlarge,SOA-Project
+i-0ceaed70ce80347cf,m5.xlarge,SOA-Project
+i-0d60543a3e8d885b7,m5a.large,SOA-Project
+i-08649682c485f9f20,m5a.large,SOA-Project
+i-0a484c2cf0bde28d7,m5a.large,SOA-Project
+i-0c24626bdbc120b57,m5a.large,SOA-Project
+i-0e60d4c2643868b45,m4.xlarge,SOA-Project
+i-0bef9b55189c2606d,m5.xlarge,CCP
+i-0a3e98a289ab55c71,m5.xlarge,CCP
+i-097e92fae2dcd0602,m5.xlarge,CCP
+i-0b8ec8311db4264e8,m5.xlarge,CCP
+i-0f7cbde854c190aa7,m5.xlarge,CCP
+i-0967b5ff578a537c7,m5.xlarge,CCP
+i-029316511fc1f7bc8,m4.xlarge,SOA-Project
+i-05497acc3926813a9,m5.xlarge,CCP
+i-0b1dc0082afbb4e58,m5.xlarge,CCP
+i-0f07b99bd315d6d83,m5.xlarge,CCP
+i-0b855f08aa14a5078,m5.xlarge,CCP
+i-077a093a660706944,m5.xlarge,CCP
+i-0cfe189204a6ef768,m5.xlarge,CCP
+i-0bf8632ee24a90702,m5.xlarge,CCP
+i-0b6eea7cc89a794d0,m5.xlarge,CCP
+i-024136d6899ecf945,m5.xlarge,CCP
+i-0a6a3e5288fb4fe6d,m5.xlarge,CCP
+i-0bbf32e8951640c69,m5.xlarge,CCP
+i-0b8775a01b5ce1a2b,m5.xlarge,CCP
+i-0ad2da7515507903b,m5.xlarge,CCP
+i-0490a4d30ec3595ce,m5.xlarge,CCP
+i-09325a2bdf235d7c3,m5.xlarge,CCP
+i-00e7dcb4d934df8d3,m5.xlarge,CCP
+i-098b5e6b936eca00c,m5.xlarge,CCP
+i-0fe9521bee9d09d2b,m5.xlarge,CCP
+i-042b7f645e34bfb55,m5.xlarge,CCP
+i-083d61868e442ab35,m5.xlarge,CCP
+i-01df59d645fa873cd,m5.xlarge,CCP
+i-086bd72100b069180,m5.xlarge,CCP
+i-0b4d09d23b95688dc,m5.xlarge,CCP
+i-0d8fb3098b4ae41c2,m5.xlarge,CCP
+i-0be5030d833fad48b,m4.xlarge,SOA-Project
+i-04b6210e9fcf850f7,r4.4xlarge,SOA-Project
+i-075f2e96d06c3ff6d,r4.4xlarge,SOA-Project
+i-0a6d96efd1476142f,r4.4xlarge,SOA-Project
+i-0d5628f37b1c388d8,r4.4xlarge,SOA-Project
+i-065e1c1dc01045de1,c5d.4xlarge,Gutenberg eReader
+i-05d9b8af9d0205fa1,c5d.4xlarge,Gutenberg eReader
+i-0167bd3f130b141c9,c5.4xlarge,Gutenberg eReader
+i-062d0457aa57ecd83,c5.4xlarge,Gutenberg eReader
+i-07ca05bbcc8f378eb,c5.4xlarge,Gutenberg eReader
+i-01524c00fa0894a35,c5.4xlarge,Gutenberg eReader
+i-0ab5ea533758d760b,c5.4xlarge,Gutenberg eReader
+i-07cb1dcf479837e19,c5.4xlarge,Gutenberg eReader
+i-01243fa9cc8fa42e9,c5.4xlarge,Gutenberg eReader
+i-090ecaf6f18719942,c5.4xlarge,Gutenberg eReader
+i-0dc2f560ed5a6eeb7,c5.4xlarge,Gutenberg eReader
+i-05e8ef933813c8bde,c5.4xlarge,Gutenberg eReader
+i-09810ec353e024c28,c5.4xlarge,Gutenberg eReader
+i-06a8750183901bb28,m4.2xlarge,Gutenberg DFP-MEF
+i-018f8ceaa158aca22,m4.2xlarge,Gutenberg DFP-MEF
+i-0d614fb37de04889a,m5d.2xlarge,Gutenberg eReader
+i-07a932fd259a15b2a,m5d.2xlarge,Gutenberg eReader
+i-01a5b475dd50b1fea,m5d.2xlarge,Gutenberg eReader
+i-096424ee74fee9867,m5d.2xlarge,Gutenberg eReader
+i-0a02d8907ec8dbc25,m5d.2xlarge,Gutenberg eReader
+i-08204edc6e3f6d0b8,m4.2xlarge,Gutenberg DFP-MEF
+i-0025b563ecc2aea1b,m4.2xlarge,Gutenberg DFP-MEF
+i-0911279c27ffa5db1,m4.2xlarge,Gutenberg DFP-MEF
+i-040cd8be2d2d72cea,m4.2xlarge,Gutenberg DFP-MEF
+i-0a5ef7bf3c42209ad,m4.2xlarge,Gutenberg DFP-MEF
+i-0db6c577dfa5f6dc6,m4.2xlarge,Gutenberg DFP-MEF
+i-0a91d56c31c86c17d,m5.xlarge,Gutenberg DFP-MEF
+i-0e65d3994d4af032c,m5.xlarge,Gutenberg DFP-MEF
+i-04869f65f76cfdd35,m5d.2xlarge,Gutenberg eReader
+i-044642b9b130d8ab2,m5d.2xlarge,Gutenberg eReader
+i-0003a034209f00d05,m5.xlarge,Gutenberg eReader
+i-075d5c8055cd0e750,m5.xlarge,Gutenberg eReader
+i-04f7a0b4dbcc045ee,m5.xlarge,Gutenberg eReader
+i-0271c8573a25f40c4,m5.xlarge,Gutenberg eReader
+i-0895608e83bf3a991,m5.xlarge,Gutenberg eReader
+i-0aeb95ade509e212e,m5.xlarge,Gutenberg DFP-MEF
+i-0c53d8284346dd4bb,m5d.2xlarge,Gutenberg eReader
+i-0e46fbba33070792f,m5d.2xlarge,Gutenberg eReader
+i-005f0dd0cbba84f9a,m5d.2xlarge,Gutenberg eReader
+i-0bf6df14f6ff963e5,m5d.2xlarge,Gutenberg eReader
+i-07461ab97413ada3e,m5d.2xlarge,Gutenberg eReader
+i-0030ff917b805c8b4,m4.large,Gutenberg DFP-MEF
+i-05106b8b681ac0522,m4.large,Gutenberg DFP-MEF
+i-0a8b4ac09bef9c504,m5.large,Gutenberg DFP-MEF
+i-06903d36e2910200b,t2.micro,Gutenberg DFP-MEF
+i-00a9500cfbf01aa3b,t2.2xlarge,Gale
+i-0a3a25bea18ef3eb0,t2.2xlarge,Gale
+i-0db7c8788655591ae,t2.2xlarge,Gale
+i-0a325ae8b7984dfa9,t2.2xlarge,Gale
+i-0c7294dacaedbb372,t2.2xlarge,Gale
+i-03e5f35cdc2f713da,t2.2xlarge,Gale
+i-0071cdecc89f0b9bb,t2.2xlarge,Gale
+i-0c5bef6d1388f1a9f,t2.2xlarge,Gale
+i-03e2e51de84098eca,t2.2xlarge,Gale
+i-00f4ebe4d4d1775aa,t2.2xlarge,Gale
+i-022327e0ac48ee011,t2.2xlarge,Gale
+i-0bb646d6893661a70,t2.2xlarge,Gale
+i-0c484348fbcc69cc5,t2.2xlarge,Gale
+i-0a1f9c7d45cd09fc3,t2.2xlarge,Gale
+i-0555f3e031a0974a7,t2.2xlarge,Gale
+i-0f87bee5d809ae8d0,m4.xlarge,Gale-CHEF
+i-00da6bd39be912d1c,m5a.xlarge,Gale-CHEF
+i-0e8404a0c80d56e37,m4.xlarge,Gale-CHEF
+i-06dd6936bcb21c91c,m4.xlarge,Gale-CHEF
+i-0b8bc515fb38f2135,c5a.8xlarge,Gale
+i-0633f99a99716fe60,m5.large,Gale-Data-Warehouse
+i-0765328bae2cb970e,m5.large,Gale-Data-Warehouse
+i-0e845517c55e9520f,m5.xlarge,Gale-Viya
+i-0356157f288e9ff3c,m5.xlarge,Gale-Viya
+i-0f4a21bb2b27eaee2,m5.xlarge,Gale-Viya
+i-0b8062f9c0de10a03,m5a.xlarge,Gale 
+i-07816d3c6447fce47,m5a.xlarge,Gale-CHEF
+i-0c4f3c8e4b40257f6,m5a.xlarge,Gale-CHEF
+i-0726c3ad4c900e92c,m5a.xlarge,Gale-CHEF
+i-097696b6a74655435,m5a.xlarge,Gale-CHEF
+i-0d5c470a50b339744,m5a.xlarge,Gale-CHEF
+i-09f780d0c52abbccf,m5a.xlarge,Gale-CHEF
+i-040c04bf6fe556831,m5a.xlarge,Gale-CHEF
+i-0531ff5968b26521b,m5a.xlarge,Gale-CHEF
+i-03c6b3404ca9d27dc,r5dn.xlarge,Gale-Viya
+i-0afe22b509f71a965,m4.large,Gale-CHEF
+i-008c78470e8d4c7c3,m4.large,Gale-CHEF
+i-0b96098bdacc02917,m4.large,Gale-CHEF
+i-09a9de723d4ccdd12,t2.large,Gale
+i-06d5caa8c4d42eda5,m4.large,Gale-CHEF
+i-0dd9226c2c5cae31c,t2.large,Gale
+i-0d612e6b57f797d5a,m5a.xlarge,Gateway
+i-0acfc7030b57320d5,m5a.xlarge,Gateway
+i-0a5d22abd87b23948,m5a.xlarge,Gateway
+i-0123aa69f265e5d4a,m5a.xlarge,Gateway
+i-002f375bc0e1d1dfc,m5a.xlarge,Gateway
+i-0fe13d31934ac41a2,m5a.xlarge,Gateway
+i-0b1fb71d7d66f1048,m5a.xlarge,Gateway
+i-04d11feee309111c5,m5a.xlarge,Gateway
+i-002475ecb298f2f33,m5a.xlarge,Gateway
+i-086e91575cee076b5,m5a.xlarge,Gateway
+i-0b6499bb696228f9e,m5a.xlarge,Gateway
+i-0310a03ee123c2c88,m5a.xlarge,Gateway
+i-08acc34dea927a560,m5a.large,Gateway
+i-05e913f6467f8036c,m5a.large,Gateway
+i-0d90122a2fe3cebe4,m5a.large,Gateway
+i-0db0ff76642bf5762,m5a.large,Gateway
+i-02ddd03fa3bf0d25a,m5a.large,Gateway
+i-0ce09fc164a421f66,m5a.large,Gateway
+i-0c7aacd9297f32bd5,m5a.large,Gateway
+i-023350ac4f86a9fee,m5a.large,Gateway
+i-0b423ddea462c88f7,m5a.large,Gateway
+i-0b6e10bbd66e1f643,m5a.large,Gateway
+i-0887a70511d4d285f,m5a.large,Gateway
+i-0031d129525b9e8eb,t2.small,Gateway
+i-07f39f1cf3e1e21a8,m5a.large,Gateway
+i-055f786af65abde70,c5a.xlarge,Geyser
+i-0bf23174745d9aa07,c5a.xlarge,Geyser
+i-02056df2c00c50c32,c5a.xlarge,Geyser
+i-0eef8a2437c9a9001,c5a.xlarge,Geyser
+i-0380ca76e8c913c71,m5a.large,Geyser
+i-049149ee9d80aaedb,m5a.large,Geyser
+i-09a4af166d14ab5d7,m5a.large,Geyser
+i-0f36c225849fc4c62,m5a.large,Geyser
+i-0f4c4db9760babfb4,c5.xlarge,Core Systems
+i-0deaa53ca92d41412,c5a.xlarge,Core Systems
+i-0b8bdad93c597cf67,c5a.xlarge,Core Systems
+i-070e3c4b21f1c5473,c5.xlarge,Core Systems
+i-075bb979036e1750d,c5a.xlarge,Core Systems
+i-01bf81a796aa15fe3,c5a.xlarge,Core Systems
+i-0011fbb1800c462fc,c5a.xlarge,Core Systems
+i-00523af0dca1ebc4c,c5a.xlarge,Core Systems
+i-0c9b8685126d835be,c5a.xlarge,Core Systems
+i-07bfc1134c1cde4c5,c5a.xlarge,Core Systems
+i-038f0e3f610e662bb,c5a.xlarge,Core Systems
+i-03c213f2c783bf69e,c5a.xlarge,Core Systems
+i-03d9fccfb38ca1b79,c5a.xlarge,Core Systems
+i-0b6945d05462cb21c,c5a.xlarge,Core Systems
+i-0f2c20fa06f0fa672,c5a.xlarge,Core Systems
+i-0d89bbb743c551022,c5a.xlarge,Core Systems
+i-015dd1b6ffe1927c5,c5a.xlarge,Core Systems
+i-00e14311b9a790949,c5a.xlarge,Core Systems
+i-05c0f894a83fa5189,c5a.xlarge,Core Systems
+i-04b709aae28ddc306,c5a.xlarge,Core Systems
+i-01a9e60174a7329ab,c5a.xlarge,Core Systems
+i-0d46e97dceb600763,c5a.xlarge,Core Systems
+i-0359e96e72015f6b1,c5a.xlarge,Core Systems
+i-04781d692082e9760,c5a.xlarge,Core Systems
+i-03736f394aaa4382e,c5a.xlarge,Core Systems
+i-062aa357511c5e561,c5a.large,Core Systems
+i-06cb83d62155c08d1,c5a.large,Core Systems
+i-00768da16248f9e1b,c5a.large,Core Systems
+i-0c966bb4733b92ef9,c5a.large,Core Systems
+i-0169e9d40332007e0,c5a.large,Core Systems
+i-0c563bf0f65745809,c5a.large,Core Systems
+i-0fae47729c1840632,c5a.large,Core Systems
+i-04e74b152055b3668,c5a.large,Core Systems
+i-0f54e368491358f79,c5a.large,Core Systems
+i-0ec763107684ee181,c5a.large,Core Systems
+i-06d7da033f221d098,c5a.large,Core Systems
+i-0b8c8aeef1fff4897,c5a.large,Core Systems
+i-0f63577ac25d243ff,m5a.large,Core Systems
+i-09c97193eebd376b8,m5a.large,Core Systems
+i-0f0285e59f17b0999,m5a.large,Core Systems
+i-05204e28ce6c30dd2,m5a.large,Core Systems
+i-0cdf230634b57b859,c5.large,Core Systems
+i-0dd42921e025a0cf8,c5a.xlarge,Core Systems
+i-024a8c63c9a92c528,c5a.xlarge,Core Systems
+i-0e82f1ca48be76978,c5a.large,Core Systems
+i-0a582d393ec584597,c5a.large,Core Systems
+i-0e6628cd7654f4668,c5a.large,Core Systems
+i-00e482bb8e1d11ebe,c5a.large,Core Systems
+i-0f16a6a52ca9aada8,c5a.large,Core Systems
+i-08f239099b834519f,c5a.large,Core Systems
+i-070054125e2b4a280,c5a.xlarge,Core Systems
+i-01c90e5aa9b4129ee,c5.large,Core Systems
+i-058ff7f8b0eda676f,c5a.large,Core Systems
+i-012ccf643f45b3c40,c5a.large,Core Systems
+i-0545d611be85221fa,m5a.large,Core Systems
+i-0a27f44a5d5ce808e,m5a.large,Core Systems
+i-00f010b6e8dd577fe,m5a.large,Core Systems
+i-0edede484ff5fe814,m5a.large,Core Systems
+i-00ed443e8aed886a8,m5a.large,Learning Objects
+i-0c9b416a9fdf7d779,r5.xlarge,CCP
+i-0cb7bf0e1b6209c01,m5.xlarge,CCP
+i-0f607fedaf2542f01,m5.xlarge,CCP
+i-0d634ae77931eda82,r5.large,CCP
+i-0a88bb8f00f64188c,r5.large,CCP
+i-036b574548efb5e6e,r5.large,CCP
+i-01358cbc328707ddd,m5.large,CCP
+i-0f38de8c110a40dcc,m5.large,CCP
+i-06ca754686903f33c,m5.large,CCP
+i-043aaa2297e8926b6,m5.large,CCP
+i-083a748cf2ee79618,m5.large,CCP
+i-044a9741b11c8970d,c5a.2xlarge,MindTap
+i-02aea1826599e3a5f,c5a.2xlarge,MindTap
+i-0917243d55572a9cd,c5a.2xlarge,MindTap
+i-0bf42a324fc39f722,c5a.2xlarge,MindTap
+i-0061a69033106f3a4,r5a.xlarge,MindTap
+i-0c6a5d1d1fa9ceb52,c5a.2xlarge,MindTap
+i-0975247f9431b5896,c5a.2xlarge,MindTap
+i-0e7586346d3380e56,c5a.2xlarge,MindTap
+i-0d1ee1dae73abebb2,m4.large,SOA-Project
+i-0e2a385278df6a49e,c5a.2xlarge,MindTap
+i-0397416506c89ba30,c5a.2xlarge,MindTap
+i-092da05fe9cf6265b,c5a.2xlarge,MindTap
+i-098f3831458b649f1,c5a.2xlarge,MindTap
+i-07993fd33671bb525,c5a.2xlarge,MindTap
+i-0bad80a99fa63ce41,c5a.2xlarge,MindTap
+i-0d089a03b298c9df5,c5a.2xlarge,MindTap
+i-03fb792b0caee1e0a,c5a.2xlarge,MindTap
+i-059b2df8a714af9a9,c5a.2xlarge,MindTap
+i-06c21da5a8dba9b54,c5a.2xlarge,MindTap
+i-01a90611a4f64f699,c5a.2xlarge,MindTap
+i-0f60473c06719d99a,c5a.2xlarge,MindTap
+i-0dfbb57098950a56b,c5a.2xlarge,MindTap
+i-0c3f5bc48987dc24e,c5a.2xlarge,MindTap
+i-0d38139dd33291b60,c5a.2xlarge,MindTap
+i-02ba1261cc4139655,c5a.2xlarge,MindTap
+i-090fff30ddbfeabf8,m5a.2xlarge,MindTap
+i-00ad55a252abbd51b,m5a.2xlarge,MindTap
+i-0ab99ac66ca6dd6d8,m5a.2xlarge,MindTap
+i-042af4b8d574181ca,m5a.2xlarge,MindTap
+i-0ef9244427f1e86cb,m5a.2xlarge,MindTap
+i-0ba1f364449343214,m5a.xlarge,MindTap
+i-07a8ebbb32c51e2f5,m5a.xlarge,MindTap
+i-0ca695901bf84eff6,m5a.xlarge,MindTap
+i-0c9ad766a13648d03,m5a.xlarge,MindTap
+i-0364725a666f55daa,r5a.2xlarge,MindTap
+i-052e874d2d0df0e2d,r5a.2xlarge,MindTap
+i-069ac602d02f1ce8b,r5a.2xlarge,MindTap
+i-083dc0be1d0d08f86,r5a.2xlarge,MindTap
+i-03721446969597b84,m4.large,SOA-Project
+i-0a7c286dad862d781,r5a.2xlarge,MindTap
+i-0c2051f6125182012,r5a.2xlarge,MindTap
+i-0d94c620651249e99,r5a.2xlarge,MindTap
+i-0f75422ee93d4fa31,r5a.2xlarge,MindTap
+i-0bf83e4412340a2c3,r5a.2xlarge,MindTap
+i-0cac5dbd1bd060cbd,r5a.2xlarge,MindTap
+i-09ba444df38ec0d7f,m5a.2xlarge,MindTap
+i-0e9a38d23433fcae3,c5a.2xlarge,MindTap
+i-046c41ab1f34d5e61,c5a.2xlarge,MindTap
+i-0608d3e02a61c9446,c5a.2xlarge,MindTap
+i-0c335da871f2352e1,c5a.2xlarge,MindTap
+i-0f940580c4ad8e363,c5a.2xlarge,MindTap
+i-06e81fa484096793e,c5a.2xlarge,MindTap
+i-04a594c35a9b4157d,c5a.2xlarge,MindTap
+i-09e2c74245ca10085,c5a.2xlarge,MindTap
+i-03a9adb951857df37,c5a.2xlarge,MindTap
+i-082eb4febdf74ffb1,c5a.2xlarge,MindTap
+i-0a9d8e1372e7ad1ed,c5a.2xlarge,MindTap
+i-0259100332a8d964b,c5a.2xlarge,MindTap
+i-08353e433873bfa64,c5a.2xlarge,MindTap
+i-0e0fa1c5147feda9a,c5a.2xlarge,MindTap
+i-0dcffd711ecf471ee,r5a.2xlarge,MindTap
+i-0170f5635fc0f0721,c5a.2xlarge,MindTap
+i-09310b692523fe463,r5a.2xlarge,MindTap
+i-0448b5eef9beb01cd,r5a.2xlarge,MindTap
+i-0b077ba9591489e44,m5.large,SOA-Project
+i-0b253efdb9587682d,m5.large,SOA-Project
+i-057791e9608701acb,r5a.2xlarge,MindTap
+i-07b33bf943b2809c0,r5a.2xlarge,MindTap
+i-081b45bc2360f1d58,r5a.2xlarge,MindTap
+i-0a83dc35ad19cf277,r5a.2xlarge,MindTap
+i-0a52b13b6ab0a377e,r5a.2xlarge,MindTap
+i-0b08c26f05c45c4bf,r5a.2xlarge,MindTap
+i-0be1a55dd68522aa9,r5a.2xlarge,MindTap
+i-0bfc344a6a685a89c,r5a.2xlarge,MindTap
+i-0c7a8cc7d9ae9b659,r5a.2xlarge,MindTap
+i-0d965e92c5495900b,r5a.2xlarge,MindTap
+i-0e8a0ced9713e6b6f,r5a.2xlarge,MindTap
+i-0d75c771b1dd303a1,r5a.2xlarge,MindTap
+i-09f6da6868283a366,r5a.2xlarge,MindTap
+i-034f7edc9f967df16,m5a.xlarge,MindTap
+i-04be1b6265ae8eec3,m5a.xlarge,MindTap
+i-0e5b393b27966a177,m5a.xlarge,MindTap
+i-0fc67b64e4ec3b565,m5a.xlarge,MindTap
+i-03e3e208355185ae8,m5a.xlarge,MindTap
+i-078a3ba876adea2f1,m5a.xlarge,MindTap
+i-0d031e27c36b6e29d,m5a.xlarge,MindTap
+i-005243445293f2268,m5a.xlarge,MindTap
+i-00ca5cdbb3ced07ea,m5a.xlarge,MindTap
+i-0c40a67211e2749a9,m5a.xlarge,MindTap
+i-0aac0225a5f461129,m5a.xlarge,MindTap
+i-0e1836485f1eabd50,m5a.xlarge,MindTap
+i-026f0ef9349151cf8,m5a.xlarge,MindTap
+i-0c176351db1e78651,m5a.xlarge,MindTap
+i-04c67170922f47a05,m5a.xlarge,MindTap
+i-09b5b58502278e278,m5a.xlarge,MindTap
+i-0ba6c3d8d5820c87d,m5a.xlarge,MindTap
+i-04869ff830b4b2a2a,m5a.xlarge,MindTap
+i-07d04d646c0034643,m5a.xlarge,MindTap
+i-00acd3b1f2f69d856,m5a.xlarge,MindTap
+i-0b806410645975ca1,m5a.xlarge,MindTap
+i-0bb627e81c61908a6,c5a.large,MindTap
+i-0d9db004878319c76,c5a.large,MindTap
+i-0122716b83fd232cf,c5a.large,MindTap
+i-0c197ec316daac411,c5a.large,MindTap
+i-040a5c31549a1da45,c5a.large,MindTap
+i-036b3dc0472956ef9,c5a.large,MindTap
+i-009c52104114605ee,c5a.large,MindTap
+i-02e771d5c8a39df31,c5a.large,MindTap
+i-0f0cfd09d0bcb6e9f,c5a.large,MindTap
+i-0a292951a03c5b550,c5a.large,MindTap
+i-0c7c3f0f2cdd4f52c,c5a.large,MindTap
+i-04bb1fcf0c3b044bc,c5a.large,MindTap
+i-08d4bf0781c8871c2,m5a.2xlarge,MindTap
+i-0f803d227e4611a98,c5a.large,MindTap
+i-0a705ffe702b43c98,c5a.large,MindTap
+i-08793a7348b589b3a,c5a.large,MindTap
+i-0488c35e2f357c07b,c5a.large,MindTap
+i-0658af343374f77b8,c5a.large,MindTap
+i-0f23726cd9fe75a41,c5a.large,MindTap
+i-0f1a0b4a6fc5cd9fa,m5a.large,SOA-Project
+i-004d5c43c9658ff72,m5a.large,SOA-Project
+i-0845d1bfa6bf115a3,m5a.large,SOA-Project
+i-0439ef7dc89a82072,c5a.large,MindTap
+i-01a32bfebd59ff4c5,c5a.large,MindTap
+i-03b3695e937d5bfd0,c5a.large,MindTap
+i-0bc7d5e2ae15f7daa,c5a.large,MindTap
+i-0852e9b31eaf52e77,c5a.large,MindTap
+i-015421d43ba9091da,c5a.large,MindTap
+i-07d4555cc53afb040,c5a.large,MindTap
+i-046a8f7f01d1941d6,r5a.2xlarge,MindTap
+i-05c6133769468034f,r5a.2xlarge,MindTap
+i-08c7c392f66937580,r5a.2xlarge,MindTap
+i-0918310bcd9589858,r5a.2xlarge,MindTap
+i-095bd52af18f55c40,r5a.2xlarge,MindTap
+i-0a0f35d34013e237a,r5a.2xlarge,MindTap
+i-0ac8690a23ea39594,r5a.2xlarge,MindTap
+i-0c3dd99a1235836d5,r5a.2xlarge,MindTap
+i-0c8ced8815b8c89ab,r5a.2xlarge,MindTap
+i-0cbda1d930bab905f,r5a.2xlarge,MindTap
+i-0ba04f98039da68f1,m5a.large,SOA-Project
+i-0fe1772c7f446d86a,m5a.large,SOA-Project
+i-01ed8d6e814f89005,m5a.large,SOA-Project
+i-08027630e2124179f,m5a.large,SOA-Project
+i-0e64bd689de3c083e,r5a.2xlarge,MindTap
+i-0f1d50098832b7c4b,r5a.2xlarge,MindTap
+i-08b27b3e7716cde94,m5a.large,SOA-Project
+i-0c05cbe846af729c3,r5a.2xlarge,MindTap
+i-0ef2644b396e47af0,r5a.2xlarge,MindTap
+i-0709d84fa1f1647e1,r5a.2xlarge,MindTap
+i-0e956c6e000feb5d6,m5a.large,MindTap
+i-0a39847b3c7d55b5d,m5a.large,MindTap
+i-0307eb23018bcc487,m5a.large,MindTap
+i-0950c9aa06b1ccb6f,m5a.large,MindTap
+i-0dea6cfd5280f4d8c,m5a.large,MindTap
+i-0d297c5fb429d60f3,m5a.large,MindTap
+i-0195cc6782d5bc77e,m5a.large,MindTap
+i-0a935a81d1604634c,m5a.large,MindTap
+i-038063a99ce4095df,c5a.large,MindTap
+i-0f83b82b2a3eb1d06,c5a.large,MindTap
+i-01e0c045b11439363,c5a.large,MindTap
+i-0cf59d3dfdd4d4960,m5a.large,MindTap
+i-08576545600d40273,m5a.large,MindTap
+i-0d5465cab3dfa0f27,m5a.large,MindTap
+i-0f1c641eaf5fb65fc,m5a.large,MindTap
+i-08a8463f5b413387f,m5a.large,MindTap
+i-0163e10a3f053c77f,m5a.large,MindTap
+i-0449b450f6b37e4a6,m5a.large,MindTap
+i-094b55a678af62e36,m5a.large,MindTap
+i-0c69cdc992b95060d,m5a.large,MindTap
+i-0d016b9a3d054911c,m5a.large,MindTap
+i-0bd6cc394b63fbfbc,m5a.large,MindTap
+i-0b46f0c362240a4f0,m5a.large,MindTap
+i-04a5b5cf6ac74709b,r5.4xlarge,MT School
+i-012d849ee1f0ab18b,r5.2xlarge,MT School
+i-04aeadd930be90c6f,r5.2xlarge,MT School
+i-04d348ca462a6a8f7,r5.2xlarge,MT School
+i-06d03ab7769028d30,r5.2xlarge,MT School
+i-06fae0f3e4a250437,r5.2xlarge,MT School
+i-08a576aaea9e90665,r5.2xlarge,MT School
+i-07e0e8d50c06cf10f,r5.2xlarge,MT School
+i-0a0ebe0135d97fe3a,r5.2xlarge,MT School
+i-0aab9d02777a98c76,r5.2xlarge,MT School
+i-0a2fe9b55b12f5f88,r5.2xlarge,MT School
+i-0b63ede4f0650084d,r5.2xlarge,MT School
+i-0a9a1f52cf7b0f097,r5.2xlarge,MT School
+i-0dc5cf46a0faedcc3,r5.2xlarge,MT School
+i-0de5ebc648fffddea,r5.2xlarge,MT School
+i-0ed569352015468d5,r5.2xlarge,MT School
+i-0fcd7f16e04359b57,r5.2xlarge,MT School
+i-02209793db1661ecf,r5.2xlarge,MT School
+i-01500b6c6f32b30f9,r5.2xlarge,MT School
+i-090031a7c6c8851b6,r5.2xlarge,MT School
+i-0dd0e071adb94d5f3,r5.2xlarge,MT School
+i-080209018a851d519,m5a.xlarge,MindTap School
+i-098088dde70774347,m5a.xlarge,MindTap School
+i-0eac6bea9feef548c,m5a.xlarge,MindTap School
+i-014c082c4229b9ed1,m5a.xlarge,MindTap School
+i-01a8fa40dbd59258e,m5a.xlarge,MindTap School
+i-0aead37addd1c55ef,m5a.xlarge,MindTap School
+i-0b754f5c44b9585e5,m5a.xlarge,MindTap School
+i-0d12f1adb1f8f39b4,m5a.xlarge,MindTap School
+i-0e67ee9e718abe103,m5a.xlarge,MindTap School
+i-09019a15c994f08c6,m5a.xlarge,MindTap School
+i-0082a96395c229276,m5a.xlarge,MindTap School
+i-0ab732263fd6ca660,m5a.large,MindTap School
+i-01e880ed9c673de16,m5a.large,MindTap School
+i-0798e27122a5d3765,m5a.large,MindTap School
+i-0c2f3269bf5b13e4e,m5a.large,MindTap School
+i-01e4ecc855b8c643f,m5a.large,MindTap School
+i-08701e0397d31b265,m5a.large,MindTap School
+i-067d2bc42751a0c3f,m5a.large,MindTap School
+i-073666689602c4770,m5a.large,MindTap School
+i-03d63523e50c34c94,m5a.large,MindTap School
+i-076a4319bbce695c8,m5a.large,MindTap School
+i-0903096b9605c33df,m5a.large,MindTap School
+i-02e3cb4713e3ee31f,m5a.xlarge,MindTap School
+i-0bde737cfb876e2b0,m5a.xlarge,MindTap School
+i-0711e5e5edeb5a0c0,m5a.xlarge,MindTap School
+i-07bc7f4846428c96a,m5a.xlarge,MindTap School
+i-0ccea7e7a797fdc71,m5a.xlarge,MindTap School
+i-0ccfe630dcbf72fc4,m5a.xlarge,MindTap School
+i-0fba04e9610877850,c5a.large,MyELT
+i-01eec36c610c9d399,t2.micro,
+i-0be18ee06501df612,m5.large,SOA-Project
+i-0f802ee51991b1b1a,m5.large,SOA-Project
+i-0e1e00bf6d4aa55a2,m5.large,SOA-Project
+i-025b9ad6c09c93e0a,m5.large,SOA-Project
+i-0c277c8b6f6779686,m5.large,SOA-Project
+i-029fefb77ecd5f73c,m5.large,SOA-Project
+i-09301b83a7fd297c7,m5.large,SOA-Project
+i-05eb6a6a57415f90c,m5.large,SOA-Project
+i-0db5143246be50b3e,m5.large,SOA-Project
+i-0de2775abc3204a44,m5.large,SOA-Project
+i-0dda0e490d3d5bb24,m5.large,SOA-Project
+i-0bf0908d7c08e4260,m5.large,SOA-Project
+i-0bf13e9bf421c1a67,m5.large,SOA-Project
+i-014b854ddd943c565,m5.large,SOA-Project
+i-0e73eda4692c6fab5,m5.large,SOA-Project
+i-015735d10892413de,m5.large,SOA-Project
+i-0cc23376d3a57bf5f,m5.large,SOA-Project
+i-0d80d5fa8f5961f20,m5.large,SOA-Project
+i-07272ac251c1667fe,m5.large,SOA-Project
+i-0314f01dfaace7564,m5.large,SOA-Project
+i-0fd71f38079b4fbd4,m5.large,SOA-Project
+i-0eb25db740759bb1a,m5.large,SOA-Project
+i-0526cb2a3359e017e,m5.large,SOA-Project
+i-054d311ffdd9d1b15,m5.large,SOA-Project
+i-05286da89e32b825c,m5.large,SOA-Project
+i-0b918eef7dab32e9b,m5.large,SOA-Project
+i-0214e7693a4721b89,t2.medium,SOA-Project
+i-06b76b818659cd945,t2.medium,SOA-Project
+i-024e6cd890261c1ee,t2.medium,SOA-Project
+i-0d43d00c118da9a11,t2.medium,SOA-Project
+i-0a1095bee16c92360,t2.small,SOA-Project
+i-08a9a99846f987010,c5.xlarge,Natgeo
+i-05acee9ee18d994b1,c5.xlarge,Natgeo
+i-0a58673cee2b945d3,m5.large,Natgeo
+i-0d6bc2c93d46cb753,m5.large,Natgeo
+i-058d11fe6cd0a623f,m5.large,Natgeo
+i-034bec9ca69553564,m5.large,Natgeo
+i-0c0438e7c5fd8fc8e,c5.xlarge,Natgeo
+i-0a3b19704e3cd5a79,c5.xlarge,Natgeo
+i-00f7e98dc9ac3da63,c5.xlarge,Natgeo
+i-0ca6c29b43c00c28b,c5.xlarge,Natgeo
+i-08e0faf0dd130e738,c5.xlarge,Natgeo
+i-04000d8b66e84c769,c5.xlarge,Natgeo
+i-0cc1459fb04c59073,c5.xlarge,Natgeo
+i-0cae64a5cd5a6477f,c5.xlarge,Natgeo
+i-0354fead349b00b9d,m4.xlarge,Natgeo
+i-011875db6c7a9f121,m5.large,Natgeo
+i-02cf42a91625f978d,m5.large,Natgeo
+i-09647db4040a1561a,m5.large,Natgeo
+i-08c59677a546ee296,m5.large,Natgeo
+i-0f1bf8790b6afafbd,m5.large,Natgeo
+i-03acc1b08c69d363d,m5.large,Natgeo
+i-0757c506d33d4c542,m5.large,Natgeo
+i-02a1ce94dc67e8228,m5.large,Natgeo
+i-0e5e9f39b6c7a090f,m5.large,Natgeo
+i-0d609124eca611776,m5.large,Natgeo
+i-0d327d9c72218a26b,r5.4xlarge,MindTap School
+i-0afad010bcc7a228a,r5.2xlarge,MindTap School
+i-0165e107358809eaa,r5.2xlarge,MindTap School
+i-0388bdaf0f79d2f87,r5.2xlarge,MindTap School
+i-03787403026f6fd35,r5.2xlarge,MindTap School
+i-094660175860d12a9,r5.2xlarge,MindTap School
+i-04440358facca1ec8,r5.2xlarge,MindTap School
+i-0abfcf534846ec725,r5.2xlarge,MindTap School
+i-075c109e191471699,r5.2xlarge,MindTap School
+i-03b2e6ee5fe8695df,r5.2xlarge,MindTap School
+i-08ae1b1498045c354,r5.2xlarge,MindTap School
+i-0accd28705bc4a0df,r5.2xlarge,MindTap School
+i-0be896f6a2d1bb39a,r5.2xlarge,MindTap School
+i-06ab85665013516b0,r5.2xlarge,MindTap School
+i-0ef95a39bdd808f06,r5.2xlarge,MindTap School
+i-0cf97872ff5657df9,r5.2xlarge,MindTap School
+i-0fb6e2eb58a83fa5b,r5.2xlarge,MindTap School
+i-0d9e80ca1cdc1d5cb,r5.2xlarge,MindTap School
+i-0e624f04fba91c734,r5.2xlarge,MindTap School
+i-0f74f9cc4b8a371be,r5.2xlarge,MindTap School
+i-049534f69b9e6d562,r5.2xlarge,MindTap School
+i-09a1f4e57c4e5d991,r5a.4xlarge,NGLSync
+i-09f636220837d2945,r5a.4xlarge,NGLSync
+i-0cb2a551d7c5eaa03,r5a.xlarge,NGLSync
+i-07cfd06813ee93afa,r5a.xlarge,NGLSync
+i-01b89c5a30ef4dc26,m5.large,NGLSync
+i-089ffdd7fbeb1b599,r5.large,NGLSync
+i-074758552f7a8fa22,r5.large,NGLSync
+i-06787a0167b1b7593,r5.large,NGLSync
+i-0268aebab28fd88ce,r5.large,NGLSync
+i-015469bce811910fa,m5.large,NGLSync
+i-076778ab2eadba262,m5.large,NGLSync
+i-0625046502855be11,m5.large,NGLSync
+i-06074176f66f3aa57,m5.large,NGLSync
+i-0413e1c6046fe774c,m5.large,NGLSync
+i-06b6f4dbf39397a8a,m5.large,NGLSync
+i-03dabbe0498907deb,m5.large,NGLSync
+i-00a357a2f349616e3,m5.large,NGLSync
+i-0140bbd63ba5b5815,m5.large,NGLSync
+i-07af308301ab4f9b4,r5.xlarge,NGLSync
+i-097395b88c5832a47,r5.xlarge,NGLSync
+i-0b6f411671837715e,r5.4xlarge,NGLSync
+i-1f614834,m3.2xlarge,Pathbrite
+i-0f3d32f48d6ba7bc2,m4.2xlarge,Pathbrite
+i-0d74a079a23cf74ba,m5.large,Pathbrite
+i-0e3c017ef83ebf885,m4.large,Pathbrite
+i-fcaeef06,t2.medium,Pathbrite
+i-0e0bb51c40e1c5765,t2.micro,Pathbrite
+i-09891bfc293c7110b,t2.micro,Pathbrite
+i-005a77bfbbadfd2ac,t2.micro,Pathbrite
+i-0baccd090916430b7,t2.micro,Pathbrite
+i-0b1251396bd9c2fe9,t2.micro,Pathbrite
+i-06110493b9fe88c45,t2.micro,Pathbrite
+i-024e79cd075e4ee98,t2.micro,Pathbrite
+i-0e1a13e64e39779f2,t2.micro,Pathbrite
+i-06bd7509b8369abef,t2.micro,Pathbrite
+i-03ee8b75742b2b6f0,t2.micro,Pathbrite
+i-0dc2eac1664635cc2,t2.micro,Pathbrite
+i-0a5852de8a547eb9f,t2.micro,Pathbrite
+i-0de794169ed7d32cb,t2.micro,Pathbrite
+i-054968c7d0d7f473f,t2.micro,Pathbrite
+i-091e69313a0077a70,t2.micro,Pathbrite
+i-0f059e76fab7d3195,t2.micro,Pathbrite
+i-04bafbf16a67bfc54,t2.micro,Pathbrite
+i-0c1d63b3676114a38,t2.micro,Pathbrite
+i-091719a8fbcc17ff1,m5.8xlarge,Gradebook
+i-0acfe16a7bae3371a,c5.xlarge,Wowza
+i-04237ee3a7a059671,c5.xlarge,Wowza
+i-0bdb455cb392b7066,c5.xlarge,Wowza
+i-0c2eabbbd57036121,m5a.xlarge,MindTap
+i-08c25d9e4c433b722,m5.large,Core Systems
+i-0e0e75b71b7b28ab9,m5.large,Core Systems
+i-0bb8c52e1426a658f,m5.large,Core Systems
+i-06ebc65c74acaabf5,m5.large,Core Systems
+i-0588d2e60d7a29931,m5.large,Core Systems
+i-0cb286ca216e0a0c0,m5.large,Core Systems
+i-0683ebd1ee5808de8,c5.large,Partner-Integrations
+i-0272939e9f972e046,m5a.large,Core Systems
+i-00bc807cdf5b82b2e,m5a.large,Core Systems
+i-03c5689c439491125,m5a.large,Core Systems
+i-04f492bbf8df14ae9,m5a.large,Core Systems
+i-0ee20ccd6fedc13f4,c5.large,Partner-Integrations
+i-0f7b5691e8634039b,m5.xlarge,SAM
+i-0eefd010ac581728c,m5.xlarge,SAM
+i-0ebfbf65861c46134,r5.2xlarge,SAM
+i-0d7beb53383a6a6b6,r5.2xlarge,SAM
+i-0c21df72c65ed8596,r5.2xlarge,SAM
+i-07f39e04756d8755f,r5.2xlarge,SAM
+i-0727269fe49440042,r5.2xlarge,SAM
+i-0706de8b4faac8752,r5.2xlarge,SAM
+i-0899781ff5d1f4b79,r5.2xlarge,SAM
+i-0af9cb7be9b424521,r5.2xlarge,SAM
+i-0b68cc5f066013b82,r5.2xlarge,SAM
+i-0ed9a2e1a9663ad83,r5.2xlarge,SAM
+i-0bd6e3fde94949611,m5a.2xlarge,SAM
+i-0ed961f878e65dec8,r5.2xlarge,SAM
+i-06854bc2bb278311c,r5.2xlarge,SAM
+i-08b0668f3f60ca30e,c5a.xlarge,Core Systems
+i-0190de1e6f5e5c11a,c5a.xlarge,Core Systems
+i-01751b250c559e615,c5a.xlarge,Core Systems
+i-061d19e55197af1a1,c5a.xlarge,Core Systems
+i-0aa0efc71ff7c4852,c5a.xlarge,Core Systems
+i-01b0313b5b7233d1d,c5a.xlarge,Core Systems
+i-05816d9f80f8d0a79,c5.xlarge,Core Systems
+i-0ab660c1e4d33a2a2,c5a.large,Core Systems
+i-0c86793d552dcde0e,c5a.large,Core Systems
+i-0663020460e6afee6,c5a.large,Core Systems
+i-0d36c60f44b3e3440,c5a.large,Core Systems
+i-00d705c17193d4e0a,c5a.large,Core Systems
+i-0eff40a2ff763e7bc,c5a.large,Core Systems
+i-0b971e4f3a5cf1b07,c5.xlarge,Core Systems
+i-0ff7750c275d6a86c,c5.xlarge,Core Systems
+i-0e4b6aec3ee12b278,c5.xlarge,Core Systems
+i-085e0da15e88cd243,m5a.large,Core Systems
+i-03aff16b825f96f44,m5a.large,Core Systems
+i-0205d740c0eb9a65d,c5a.xlarge,Core Systems
+i-0df032237b09cc12e,c5a.xlarge,Core Systems
+i-03d0d22d5c84987f9,c5a.xlarge,Core Systems
+i-0e84ee1e176355ecb,c5a.xlarge,Core Systems
+i-02d11940edde9b192,m5a.large,Core Systems
+i-09e38ee6831f47dd2,m5a.large,Core Systems
+i-02604a84c6d65db51,m5a.large,Core Systems
+i-0c6fe49f1be1c7045,m5a.large,Core Systems
+i-04fbe1eb929de12d8,m5a.large,Core Systems
+i-0c2d47b8a9a92a08c,m5a.large,Core Systems
+i-059510244ae50b855,c5a.large,Core Systems
+i-0d38c9de9fa394d03,c5a.large,Core Systems
+i-0f8d02b8f5906d420,c5a.large,Core Systems
+i-0bf285468c6f31ceb,c5a.large,Core Systems
+i-070468328d60f1519,c5a.large,Core Systems
+i-004e5981dba03d09e,c5a.large,Core Systems
+i-097ea875ccf6102b7,m5.large,SOA-Project
+i-01fbab7d4d08f168f,m5.large,SOA-Project
+i-082ca8fa315d32cdb,m5.large,SOA-Project
+i-0609ce42aabe72b63,m5.large,SOA-Project
+i-00b184a90fde976b8,m5.large,SOA-Project
+i-0f6d2de8a133bb743,m5.large,SOA-Project
+i-07c336256a5e4f39c,m5.large,SOA-Project
+i-091d2bfc1ac287c3e,m5.large,SOA-Project
+i-0dce67aec47f53164,m5.large,SOA-Project
+i-0d46dc506623d185f,m5.large,SOA-Project
+i-0551a4b30a7a3ebe4,m5.xlarge,SOA-Project
+i-07b60a5255ec15b00,m5.xlarge,SOA-Project
+i-0cff75e8dd9ff0261,m5.xlarge,SOA-Project
+i-047dd3f56d0c22134,m5.xlarge,SOA-Project
+i-0f079d157e9a8d978,m5.xlarge,SOA-Project
+i-0b28c8c54236f074c,m5.xlarge,SOA-Project
+i-021967e0d7d7e22ae,m5.xlarge,SOA-Project
+i-0e83e278527c17744,m5a.large,SOA-Project
+i-0d7d741b4c8c41025,m5.xlarge,SOA-Project
+i-0d8b795856b7805cc,m5.xlarge,SOA-Project
+i-099e658be93902d39,m4.xlarge,SOA-Project
+i-0ea69e2959ee012ec,m4.xlarge,SOA-Project
+i-05ef78ead3b596496,m4.xlarge,SOA-Project
+i-0b8b3ffa2de6bc366,c5.2xlarge,Security
+i-0d407187c676d35cb,c5.2xlarge,Security
+i-085ca176090f93837,r5a.4xlarge,Security
+i-0a0d33d03e9c85e0b,m5.2xlarge,CU-Sidebar
+i-0b28fb510a6d2198f,m4.xlarge,Tachyons
+i-0f3419df73680342e,m4.xlarge,Tachyons
+i-06b8bc601a126fc65,m5a.large,GIAWL
+i-0fcc655df7cdb40aa,m5a.large,GIAWL
+i-0db81f6e9d0de8d00,m5a.large,GIAWL
+i-0df6087f54ee264c1,m5a.large,GIAWL
+i-00cea1a621165ff4e,m5a.large,GIAWL
+i-0242e8aefd281d537,m5a.large,IPM
+i-000e8b1ea879e7789,m5a.large,IPM
+i-0f669c9ed6f533616,m5a.large,GIAWL
+i-09cd0eb69abe8c577,m5a.large,GIAWL
+i-017a069c8d39319e2,m5a.large,CU-Sidebar
+i-03d52166678283754,m5a.large,CU-Sidebar
+i-02dc7394cf7f49365,m5a.large,CU-Sidebar
+i-09876f5a747d15e01,m5a.large,CU-Sidebar
+i-0a493b9d46ad8be3f,m5a.large,IPM
+i-00804ca5aa11ba728,c5a.large,Partner-Integrations
+i-05257fd01b2e92e4e,c5a.large,Partner-Integrations
+i-08f102d4a956a45ed,c5a.xlarge,CU-Sidebar
+i-09cdde36338129abd,c5a.xlarge,CU-Sidebar
+i-0116b6d9e69d46e5b,m5a.large,GIAWL
+i-0ca4e217dd700c0e2,m5a.large,IPM
+i-0e90315165671ac57,t2.small,TechCheck
+i-05f5e97c4a384719d,m5a.large,Core Systems
+i-0371aeffc61022efe,m5a.large,Core Systems
+i-0cd3eba59a83612a1,m5a.xlarge,Pronounce
+i-06f8c9232aa7e3eb8,t2.medium,CTAF
+i-067eb724c829e1edd,t2.medium,CTAF
+i-077afc5a8f8b66cfa,m5a.xlarge,Pronounce
+i-0c2030c440129f1a8,m5a.xlarge,Pronounce
+i-0a4033e904ff0eb8c,m5a.xlarge,Pronounce
+i-09589aad888ce1c98,m5a.large,CU-Sidebar
+i-0fcc9b7ebb00a36d1,m5a.large,CU-Sidebar
+i-0e8a40a9225ad4ea7,m5a.large,CU-Sidebar
+i-008dbd8675baf0f00,m5a.large,CU-Sidebar
+i-0289bb3a29dbadcc2,m5.xlarge,WebAssign
+i-0becad9f8d5e84dc7,m5.large,WebAssign
+i-07be3e4062dd64ffe,m5.large,WebAssign
+i-085f090592fc68524,m5.large,Alteryx
+i-0c43c5ba3104355c8,m5.large,WebAssign
+i-0c18b86aebfa08923,m5.large,WebAssign
+i-0fce0294bd0b0db5d,m5.large,WebAssign
+i-02e16240d5ffe4d7f,m5.large,WebAssign
+i-02283433f8f718109,m5.large,WebAssign
+i-0e5961718b0f473bb,r5.xlarge,WebAssign
+i-0ad39c93c3d80e1c4,m5a.2xlarge,WebAssign
+i-05611ec5813bf8fcd,m5.large,WebAssign
+i-05bac1fc3b6bf24d4,m5ad.xlarge,India-Mobile
+i-09c21ae813096f1eb,c5.large,AppBuilder
