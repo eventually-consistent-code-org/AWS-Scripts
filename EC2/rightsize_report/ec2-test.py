@@ -2,16 +2,18 @@
 
 import boto3
 
-def describe_ec2_instances():
-    ec2 = boto3.client('ec2')
-    response = ec2.describe_instances()
+def scan_ec2_instances():
+    ec2 = boto3.resource('ec2')
+    instances = ec2.instances.all()
     
-    instance_ids = []
-    for reservation in response['Reservations']:
-        for instance in reservation['Instances']:
-            instance_ids.append(instance['InstanceId'])
+    inst_id = []
+    inst_type = []
     
-    for instance_id in instance_ids:
-        print(f"This is instance: {instance_id}")
-        
-describe_ec2_instances()
+    for instance in instances:
+        inst_id.append(instance.id)
+        inst_type.append(instance.instance_type)
+    
+    print("Instance IDs:", inst_id)
+    print("Instance Types:", inst_type)
+
+scan_ec2_instances()
