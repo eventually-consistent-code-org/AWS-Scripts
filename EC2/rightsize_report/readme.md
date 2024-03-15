@@ -1,0 +1,1 @@
+Script to scan Ec2 resources for instance type changes that are then written to a csv, and can be reported on in quicksight or other reporting tool
