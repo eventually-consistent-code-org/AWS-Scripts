@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 import boto3
 import csv
 import sys
@@ -35,3 +33,6 @@ def describe_ec2_instances():
                             csv_writer = csv.writer(changed_file)
                             csv_writer.writerow([inst_id, inst_type, instance['InstanceType'], app_id])
                         logging.info("instance written. \r")
+                        
+if __name__ == "__main__":
+    describe_ec2_instances()
